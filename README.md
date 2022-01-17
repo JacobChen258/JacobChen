@@ -1,7 +1,13 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 # Litao Chen (Jacob)
-Welcome to my home page
+
+A recent Computer Science Specialist grad expects to graduate in June 2022 from University of Toronto Mississauga.
+
+With strong interests and knowledge in parallel programming and software development, I am excited to implement my knowledge in pratice.
+
+#### You can get [my resume here](./Litao_Chen_s_CV.pdf)
+
 
 ## List of repositories
 
